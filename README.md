@@ -169,6 +169,7 @@ deleteBtn.onclick = (e) => {
 };
 li.appendChild(deleteBtn);
 
+
 # Test functionality 
 
 Add tasks ✅
@@ -181,3 +182,18 @@ Delete with button ✅
 
 all updates happen dynamically in the DOM using JavaScript.
 
+# OUTPUT 
+you can check in live 
+Copy the HTML, CSS, and JS code from earlier
+
+Create three files:
+
+index.html
+
+style.css
+
+script.js
+
+Open index.html in a browser
+
+# i have used html css js for this task 2 
